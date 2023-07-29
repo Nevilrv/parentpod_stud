@@ -1,0 +1,11 @@
+<svg id="game-svgrepo-com" xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42">
+  <path id="Path_79456"  d="M36.664,42H5.336A5.337,5.337,0,0,1,0,36.664V5.336A5.337,5.337,0,0,1,5.336,0H36.664A5.337,5.337,0,0,1,42,5.336V36.664A5.337,5.337,0,0,1,36.664,42Z" fill="#cfd8dc"/>
+  <path id="Path_79457"  d="M21.111,4H6.225A2.227,2.227,0,0,0,4,6.225V21.111H21.111Z" transform="translate(-0.889 -0.889)" fill="#f0c419"/>
+  <path id="Path_79458"  d="M4,28V42.886a2.227,2.227,0,0,0,2.225,2.225H21.111V28Z" transform="translate(-0.889 -6.222)" fill="#ed7161"/>
+  <path id="Path_79459"  d="M42.886,4H28V21.111H45.111V6.225A2.227,2.227,0,0,0,42.886,4Z" transform="translate(-6.222 -0.889)" fill="#67b9cc"/>
+  <path id="Path_79460"  d="M28,45.111H42.886a2.227,2.227,0,0,0,2.225-2.225V28H28Z" transform="translate(-6.222 -6.222)" fill="#a4e869"/>
+  <circle id="Ellipse_95" cx="6" cy="6" r="6" transform="translate(5 6)" fill="#f29c1f"/>
+  <rect id="Rectangle_165" width="7.699" height="7.699" transform="translate(24.888 11.667) rotate(-45)" fill="#48a0dc"/>
+  <path id="Path_79461"  d="M18.889,41.889H8L13.444,31Z" transform="translate(-1.778 -6.889)" fill="#df4d60"/>
+  <path id="Path_79462"  d="M37.222,31l1.966,3.985,4.256.682L40.4,38.724l.751,4.38-3.932-2.068L33.29,43.1l.751-4.38L31,35.667l4.256-.682Z" transform="translate(-6.889 -6.889)" fill="#4fba6f"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg id="library-panel-svgrepo-com" xmlns="http://www.w3.org/2000/svg" width="42.334" height="42.333" viewBox="0 0 42.334 42.333">
+  <g id="Group_4718" transform="translate(4.885 1.861)">
+    <rect id="Rectangle_3290" width="1.396" height="8.839" fill="#95341d"/>
+    <rect id="Rectangle_3291" width="1.396" height="8.839" transform="translate(31.169)" fill="#95341d"/>
+  </g>
+  <path id="Path_79620"  d="M429.421,118.154v32.564H426.63L421.978,134.9l4.652-16.747Z" transform="translate(-387.088 -108.385)" fill="#e26142"/>
+  <path id="Path_79621"  d="M39.542,118.154v32.564H0V118.154Z" transform="translate(0 -108.385)" fill="#f1866d"/>
+  <path id="Path_79622"  d="M460.388,0V2.791H457.6l-1.861-1.4L457.6,0Z" transform="translate(-418.055)" fill="#f5ac51"/>
+  <path id="Path_79623"  d="M39.542,0V2.791H1.4A1.4,1.4,0,1,1,1.4,0Z" fill="#ffd159"/>
+  <path id="Path_79624"  d="M188.484,219.429l5.582,20.469a2.327,2.327,0,0,0,2.279-1.861h13.3V219.429Z" transform="translate(-172.9 -201.286)" fill="#95341d"/>
+  <path id="Path_79625"  d="M70.307,219.429H67.516v18.608h13.3A2.328,2.328,0,0,0,83.1,239.9V236.48Z" transform="translate(-61.934 -201.286)" fill="#ab5d4a"/>
+  <path id="Path_79626"  d="M346,185.67l-2.791,9.769L346,204.278h2.791V185.67Z" transform="translate(-314.832 -170.318)" fill="#ffcdc1"/>
+  <path id="Path_79627"  d="M227.359,185.67a2.8,2.8,0,0,0-2.326,1.254l-2.791,9.759,2.791,8.829a2.82,2.82,0,0,1,2.326-1.234h7.676V185.67Z" transform="translate(-203.866 -170.318)" fill="#ffeeea"/>
+  <path id="Path_79628"  d="M111.742,185.67H101.275v18.608h10.467a2.82,2.82,0,0,1,2.326,1.234V186.924A2.8,2.8,0,0,0,111.742,185.67Z" transform="translate(-92.901 -170.318)" fill="#fff"/>
+</svg>

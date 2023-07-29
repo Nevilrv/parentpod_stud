@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038746033229",
+    "project_id": "studentapp-parentpod",
+    "storage_bucket": "studentapp-parentpod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038746033229:android:a109e00bba0fc91da81004",
+        "android_client_info": {
+          "package_name": "com.example.parentpod_stud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038746033229-16ii8o7oa223sk4otdqdh4okclaat63s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_eY3BgqyijZ8RnQOefEazmUi2lQFemXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038746033229-16ii8o7oa223sk4otdqdh4okclaat63s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

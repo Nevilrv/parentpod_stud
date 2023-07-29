@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34.938" height="43" viewBox="0 0 34.938 43">
+  <g id="Group_4717" transform="translate(-2998 -1001)">
+    <path id="Shape" d="M2.688,1.344H32.25a2.688,2.688,0,0,1,2.688,2.688V40.313A2.688,2.688,0,0,1,32.25,43H2.688A2.688,2.688,0,0,1,0,40.313V4.031A2.688,2.688,0,0,1,2.688,1.344Z" transform="translate(2998 1001)" fill="#ecce93"/>
+    <path id="Shape-2" d="M2.688,31.463V4.031H32.25V40.313H11.537Z" transform="translate(2998 1001)" fill="#efefef"/>
+    <path id="Shape-3" d="M11.537,31.463v8.85l-8.85-8.85Z" transform="translate(2998 1001)" fill="#e76e54"/>
+    <path id="Shape-4" d="M10.75,5.375V0H24.188V5.375A2.688,2.688,0,0,1,21.5,8.063H13.438A2.688,2.688,0,0,1,10.75,5.375Z" transform="translate(2998 1001)" fill="#e76e54"/>
+    <g id="Group" transform="translate(3006.063 1011.75)">
+      <path id="Shape-5" d="M6.719,0h10.75a1.344,1.344,0,0,1,0,2.688H6.719A1.344,1.344,0,0,1,6.719,0Z" fill="#77959e"/>
+      <path id="Shape-6" d="M0,0H2.688V2.688H0Z" fill="#77959e"/>
+      <path id="Shape-7" d="M0,5.375H2.688V8.063H0Z" fill="#77959e"/>
+      <path id="Shape-8" d="M0,10.75H2.688v2.688H0Z" fill="#77959e"/>
+      <path id="Shape-9" d="M0,16.125H2.688v2.688H0Z" fill="#77959e"/>
+      <path id="Shape-10" d="M6.719,5.375h8.063a1.344,1.344,0,0,1,0,2.688H6.719a1.344,1.344,0,0,1,0-2.687Z" fill="#77959e"/>
+      <path id="Shape-11" d="M6.719,10.75H9.406a1.344,1.344,0,1,1,0,2.688H6.719a1.344,1.344,0,1,1,0-2.687Z" fill="#77959e"/>
+    </g>
+  </g>
+</svg>
